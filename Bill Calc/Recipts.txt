@@ -1,0 +1,635 @@
+____________________________________________________________________________________________
+
+
+
+                                      Bill Recipt[Billing Date : 23 -Dec -2022 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 463
+Units => 463 - 395 = 68
+Per Unit Charage => 7.3242 
+Bill => 498.043945
+Extra  charge => 4.882784
+Total Bill => 498.043945 + 4.882784 = 502.926727
+
+
+                                      Bill Recipt[Billing Date : 23 -Dec -2022 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1304
+Units => 1304 - 1250 = 54
+Per Unit Charage => 7.3242 
+Bill => 395.505493
+Extra  charge => 4.882784
+Total Bill => 395.505493 + 4.882784 = 400.388275
+
+
+                                      Bill Recipt[Billing Date : 23 -Dec -2022 ]                               
+                                 Kalicharan             
+
+Meter Units => 6140
+Units => 6140 - 6082 = 58
+Per Unit Charage => 7.3242 
+Bill => 424.802185
+Extra  charge => 4.882784
+Total Bill => 424.802185 + 4.882784 = 429.684967
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+                                      Bill Recipt[Billing Date : 24 -Dec -2022 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 463
+Units => 463 - 395 = 68
+Per Unit Charage => 7.3242 
+Bill => 498.043945
+Extra  charge => 4.882784
+Total Bill => 498.043945 + 4.882784 = 502.926727
+
+
+                                      Bill Recipt[Billing Date : 24 -Dec -2022 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1304
+Units => 1304 - 1250 = 54
+Per Unit Charage => 7.3242 
+Bill => 395.505493
+Extra  charge => 4.882784
+Total Bill => 395.505493 + 4.882784 = 400.388275
+
+
+                                      Bill Recipt[Billing Date : 24 -Dec -2022 ]                               
+                                 Kalicharan             
+
+Meter Units => 6140
+Units => 6140 - 6082 = 58
+Per Unit Charage => 7.3242 
+Bill => 424.802185
+Extra  charge => 4.882784
+Total Bill => 424.802185 + 4.882784 = 429.684967
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+                           Bill Recipt[Billing Date : 9 -1 -2023 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 501
+Units => 501 - 463 = 38
+Per Unit Charge => 7.7619 
+Bill => 294.952393
+Extra Charge => 12.936508  [5 units extra in total bill ]
+Total Bill => 294.952393 + 12.936508 = 307.888916
+
+
+                           Bill Recipt[Billing Date : 9 -1 -2023 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1343
+Units => 1343 - 1304 = 39
+Per Unit Charge => 7.7619 
+Bill => 302.714294
+Extra Charge => 12.936508  [5 units extra in total bill ]
+Total Bill => 302.714294 + 12.936508 = 315.650818
+
+
+                           Bill Recipt[Billing Date : 9 -1 -2023 ]                               
+                                 Kalicharan             
+
+Meter Units => 6184
+Units => 6184 - 6140 = 44
+Per Unit Charge => 7.7619 
+Bill => 341.523804
+Extra Charge => 12.936508  [5 units extra in total bill ]
+Total Bill => 341.523804 + 12.936508 = 354.460327
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+                           Bill Recipt[Billing Date : 6 -2 -2023 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 540
+Units => 540 - 501 = 39
+Per Unit Charge => 7.4795 
+Bill => 291.698639
+Extra Charge => 14.958904  [6 units extra in total bill ]
+Total Bill => 291.698639 + 14.958904 = 306.657543
+
+
+                           Bill Recipt[Billing Date : 6 -2 -2023 ]                               
+                                 Kalicharan             
+
+Meter Units => 6237
+Units => 6237 - 6184 = 53
+Per Unit Charge => 7.4795 
+Bill => 396.410950
+Extra Charge => 14.958904  [6 units extra in total bill ]
+Total Bill => 396.410950 + 14.958904 = 411.369854
+
+
+                           Bill Recipt[Billing Date : 6 -2 -2023 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1391
+Units => 1391 - 1343 = 48
+Per Unit Charge => 7.4795 
+Bill => 359.013702
+Extra Charge => 14.958904  [6 units extra in total bill ]
+Total Bill => 359.013702 + 14.958904 = 373.972607
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+                           Bill Recipt[Billing Date : 10 -3 -2023 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 596
+Units => 596 - 540 = 56
+Per Unit Charge => 7.2959 
+Bill => 408.568054
+Extra Charge => 4.863905  [2 units extra in total bill ]
+Total Bill => 408.568054 + 4.863905 = 413.431960
+
+
+                           Bill Recipt[Billing Date : 10 -3 -2023 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1437
+Units => 1437 - 1391 = 46
+Per Unit Charge => 7.2959 
+Bill => 335.609467
+Extra Charge => 4.863905  [2 units extra in total bill ]
+Total Bill => 335.609467 + 4.863905 = 340.473372
+
+
+                           Bill Recipt[Billing Date : 10 -3 -2023 ]                               
+                                 Kalicharan             
+
+Meter Units => 6302
+Units => 6302 - 6237 = 65
+Per Unit Charge => 7.2959 
+Bill => 474.230774
+Extra Charge => 4.863905  [2 units extra in total bill ]
+Total Bill => 474.230774 + 4.863905 = 479.094679
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+                           Bill Recipt[Billing Date : 5 -4 -2023 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 654
+Units => 654 - 596 = 58
+Per Unit Charge => 7.3855 
+Bill => 428.361450
+Extra Charge => 4.923695  [2 units extra in total bill ]
+Total Bill => 428.361450 + 4.923695 = 433.285145
+
+
+                           Bill Recipt[Billing Date : 5 -4 -2023 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1473
+Units => 1473 - 1437 = 36
+Per Unit Charge => 7.3855 
+Bill => 265.879517
+Extra Charge => 4.923695  [2 units extra in total bill ]
+Total Bill => 265.879517 + 4.923695 = 270.803212
+
+
+                           Bill Recipt[Billing Date : 5 -4 -2023 ]                               
+                                 Kalicharan             
+
+Meter Units => 6372
+Units => 6372 - 6302 = 70
+Per Unit Charge => 7.3855 
+Bill => 516.987976
+Extra Charge => 4.923695  [2 units extra in total bill ]
+Total Bill => 516.987976 + 4.923695 = 521.911671
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+                           Bill Recipt[Billing Date : 5 -5 -2023 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 746
+Units => 746 - 654 = 92
+Per Unit Charge => 6.8671 
+Bill => 631.776184
+Extra Charge => 2.289044  [1 units extra in total bill ]
+Total Bill => 631.776184 + 2.289044 = 634.065228
+
+
+                           Bill Recipt[Billing Date : 5 -5 -2023 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1572
+Units => 1572 - 1473 = 99
+Per Unit Charge => 6.8671 
+Bill => 679.846130
+Extra Charge => 2.289044  [1 units extra in total bill ]
+Total Bill => 679.846130 + 2.289044 = 682.135175
+
+
+                           Bill Recipt[Billing Date : 5 -5 -2023 ]                               
+                                 Kalicharan             
+
+Meter Units => 6466
+Units => 6466 - 6372 = 94
+Per Unit Charge => 6.8671 
+Bill => 645.510498
+Extra Charge => 2.289044  [1 units extra in total bill ]
+Total Bill => 645.510498 + 2.289044 = 647.799542
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+                           Bill Recipt[Billing Date : 9 -6 -2023 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 930
+Units => 930 - 746 = 184
+Per Unit Charge => 6.7269 
+Bill => 1237.747803
+Amount should be deducted => 6.726891  [3 units less in total bill ]
+Total Bill => 1237.747803 - 6.726891 = 1231.020912
+
+
+                           Bill Recipt[Billing Date : 9 -6 -2023 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1732
+Units => 1732 - 1572 = 160
+Per Unit Charge => 6.7269 
+Bill => 1076.302490
+Amount should be deducted => 6.726891  [3 units less in total bill ]
+Total Bill => 1076.302490 - 6.726891 = 1069.575600
+
+
+                           Bill Recipt[Billing Date : 9 -6 -2023 ]                               
+                                 Kalicharan             
+
+Meter Units => 6601
+Units => 6601 - 6466 = 135
+Per Unit Charge => 6.7269 
+Bill => 908.130249
+Amount should be deducted => 6.726891  [3 units less in total bill ]
+Total Bill => 908.130249 - 6.726891 = 901.403358
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+                           Bill Recipt[Billing Date : 7 -7 -2023 ]                               
+                                 Devendra Uncle             
+
+Meter Units => 1131
+Units => 1131 - 930 = 201
+Per Unit Charge => 6.8448 
+Bill => 1375.810303
+Amount should be deducted => 4.563219  [2 units less in total bill ]
+Total Bill => 1375.810303 - 4.563219 = 1371.247084
+
+
+                           Bill Recipt[Billing Date : 7 -7 -2023 ]                               
+                                 Jitendra Uncle             
+
+Meter Units => 1873
+Units => 1873 - 1732 = 141
+Per Unit Charge => 6.8448 
+Bill => 965.120728
+Amount should be deducted => 4.563219  [2 units less in total bill ]
+Total Bill => 965.120728 - 4.563219 = 960.557509
+
+
+                           Bill Recipt[Billing Date : 7 -7 -2023 ]                               
+                                 Kalicharan             
+
+Meter Units => 6725
+Units => 6725 - 6601 = 124
+Per Unit Charge => 6.8448 
+Bill => 848.758606
+Amount should be deducted => 4.563219  [2 units less in total bill ]
+Total Bill => 848.758606 - 4.563219 = 844.195387
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________________
+
+
+
+                         Bill Recipt[Billing Date : 06 August 2023]                    
+
+                          Kalicharan Uncle
+Meter Units => 6865
+Units = 6865 - 6725 = 140
+Per Unit Charge => 6.8047338
+Bill => 952.6627
+Extra Charge => 18.145956  [8 units extra in total bill ]
+Total Bill => 952.662720 + 18.145956 = 970.808655
+
+
+                         Bill Recipt[Billing Date : 06 August 2023]                    
+
+                          Devendra Uncle
+Meter Units => 1355
+Units = 1355 - 1131 = 224
+Per Unit Charge => 6.8047338
+Bill => 1524.2604
+Extra Charge => 18.145956  [8 units extra in total bill ]
+Total Bill => 1524.260376 + 18.145956 = 1542.406372
+
+
+                         Bill Recipt[Billing Date : 06 August 2023]                    
+
+                          Jitendra Uncle
+Meter Units => 2008
+Units = 2008 - 1873 = 135
+Per Unit Charge => 6.8047338
+Bill => 918.63904
+Extra Charge => 18.145956  [8 units extra in total bill ]
+Total Bill => 918.639038 + 18.145956 = 936.784973
+
+
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________________
+
+
+
+                         Bill Recipt[Billing Date : 05 September 2023]                    
+
+                          Kalicharan Uncle
+Meter Units => 7029
+Units = 7029 - 6865 = 164
+Per Unit Charge => 6.869801
+Bill => 1126.6473
+Extra Charge => 84.727547  [37 units extra in total bill ]
+Total Bill => 1126.647339 + 84.727547 = 1211.374878
+
+
+                         Bill Recipt[Billing Date : 05 September 2023]                    
+
+                          Devendra Uncle
+Meter Units => 1560
+Units = 1560 - 1355 = 205
+Per Unit Charge => 6.869801
+Bill => 1408.3092
+Extra Charge => 84.727547  [37 units extra in total bill ]
+Total Bill => 1408.309204 + 84.727547 = 1493.036743
+
+
+                         Bill Recipt[Billing Date : 05 September 2023]                    
+
+                          Jitendra Uncle
+Meter Units => 2155
+Units = 2155 - 2008 = 147
+Per Unit Charge => 6.869801
+Bill => 1009.8608
+Extra Charge => 84.727547  [37 units extra in total bill ]
+Total Bill => 1009.860779 + 84.727547 = 1094.588379
+
+
+____________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
